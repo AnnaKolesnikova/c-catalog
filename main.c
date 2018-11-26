@@ -10,7 +10,6 @@ int main()
 {
 	// showMenu(menuItems, 10);
 	showMenu();
-	
 
 	// CatItem *item = create("root");
 	// Catalog cat = {item};
@@ -21,7 +20,7 @@ int main()
 	// append_child(item, create("456"));
 	// append_child(item, create("789"));
 	// print_catalog(&cat);
-	// print_children(item);	
+	// print_children(item);
 	// print_children(item->children[0]);
 	// read_file("catalog.txt");
 	// printf("%s\n", get_name("--asdsad"));
